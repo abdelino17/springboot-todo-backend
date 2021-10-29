@@ -90,8 +90,6 @@ As I said below, this repo is part of my challenge of building a single frontend
 
 - [Build a Frontend Todo App with React and TypeScript](https://github.com/abdelino17/react-todo-frontend)
 
-
-
 - [Build a Backend API with NestJs Framework](https://github.com/abdelino17/nestjs-todo-backend.git)
 
 - [Build a Backend API with Python and FastAPI Framework](https://github.com/abdelino17/fastapi-todo-backend.git)
